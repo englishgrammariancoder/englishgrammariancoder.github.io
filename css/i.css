@@ -99,6 +99,7 @@ width: 100%;
 line-height: 300%;
 border-top: 1px solid white;
 background-color: #4b8cf5;
+color: white;
 opacity: 0.9;
 z-index: 20;
 }
@@ -354,7 +355,8 @@ div#header{
 	
 }
 h1,h3,h4,h5,h6{
-	color: #4b8cf5;
+color: #dfebdd;
+	
 }
 
 div#header div#logo{
@@ -435,7 +437,7 @@ div#navigation ul li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #4b8cf5;
+    color: #dfebdd;
 	font-weight: bold;
 }
 div#navigation ul li:hover ul{
