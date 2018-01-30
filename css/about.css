@@ -32,7 +32,7 @@ div#header{
 	
 }
 h1,h3,h4,h5,h6{
-	color: #4b8cf5;
+	color: #ffffff;
 }
 
 div#header div#logo{
@@ -113,7 +113,7 @@ div#navigation ul li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #4b8cf5;
+	color: white;
 	font-weight: bold;
 }
 div#navigation ul li:hover ul{
@@ -373,7 +373,7 @@ div#navigation ul li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #4b8cf5;
+	color: white;
 	font-weight: bold;
 }
 div#navigation ul li:hover ul{
@@ -552,7 +552,7 @@ div#header{
 	
 }
 h1,h3,h4,h5,h6{
-	color: #4b8cf5;
+	color: white;
 }
 
 div#header div#logo{
@@ -812,7 +812,7 @@ div#header{
 	border-radius: 6px 6px 0px 0px;
 }
 h1,h3,h4,h5,h6{
-	color: #4b8cf5;
+	color: white;
 }
 
 div#header div#logo{
@@ -921,8 +921,8 @@ div#navigation ul li a{
 	text-decoration: none;
 	color: white;
 	background-color: #4b8cf5;
-	border-top: 1px solid #4b8cf5;
-	border-bottom: 1px solid #4b8cf5;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
 	font-weight: bold;
 	border-radius: 4px;
 }
