@@ -23,6 +23,7 @@ box-shadow: 0px 0px 15px black;
 /*background-color: white;*/
 
 }
+
 .blink{
     -webkit-animation:blink 0.7s step-start infinite;
 	animation:blink 0.7s step-start infinite;
@@ -51,9 +52,10 @@ box-shadow: 0px 0px 15px black;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#4b8cf5; 
+	/*background-color:#4b8cf5; */
 	margin: 0px;
 	padding: 5%;
+    background-image: url("../images/bgp.jpg");
 
 
 	
@@ -63,7 +65,7 @@ h1,h3,h4,h5,h6{
 }
 
 div#header div#logo{
-width: 15%;
+width: 30%;
 /*background-color: #003300;*/
 float: left;
 }
@@ -80,7 +82,9 @@ div#header div#logo img{
 div#header div#name{
 	/*height: 50px;*/
 	float: left;
-	width: 75%;
+	width: 70%;
+	/*margin: left 0px;*/
+
 }
 
 div#header div#name img{
@@ -162,7 +166,7 @@ margin: 0px;
 }
 div#slider img{
 	width: 100%;
-	height:350px;
+	height:163px;
 }
 .rslides {
   position: relative;
@@ -373,7 +377,9 @@ box-shadow: 0px 0px 15px black;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#4b8cf5; 
+	/*background-color:#4b8cf5; */
+    background-image: url("../images/bgp.jpg");
+	
 	margin: 0px;
 	padding: 5%;
 	
@@ -576,7 +582,9 @@ div#content img{
 
 div#footer{
 /*height: 300px;*/
-background-color: #4b8cf5;
+/*background-color: #4b8cf5;*/
+    background-image: url("../images/bgp.jpg");
+
 margin: 0px;
 padding: 2%;
 font-size: 12px;
@@ -691,7 +699,9 @@ margin: 0 auto;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#4b8cf5; 
+	/*background-color:#4b8cf5; */
+    background-image: url("../images/bgp.jpg");
+	
 	margin: 0px;
 	padding: 5%;
 	
@@ -701,7 +711,7 @@ h1,h3,h4,h5,h6{
 }
 
 div#header div#logo{
-width: 15%;
+width: 25%;
 /*background-color: #003300;*/
 float: left;
 }
@@ -992,7 +1002,9 @@ div#footermobile{
 
 body{
 margin:0;
-background-color:#4b8cf5;
+/*background-color:#4b8cf5;*/
+background-image: url("../images/bgp.jpg");
+
 color: #dfebdd;
 padding: 0;
 /*margin-top: 30px;*/
@@ -1009,7 +1021,9 @@ margin: 0 auto;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#4b8cf5; 
+	/*background-color:#4b8cf5; */
+background-image: url("../images/bgp.jpg");
+	
 	margin: 0px;
 	padding: 3%;
 	margin-top: 3%;
@@ -1017,7 +1031,7 @@ div#header{
 	
 }
 h1,h3,h4,h5,h6{
-	color: #4b8cf5;
+	color: black;
 }
 
 div#header div#logo{
