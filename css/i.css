@@ -54,7 +54,7 @@ div#header{
 	/*height: 300px;*/ 
 	/*background-color:#4b8cf5; */
 	margin: 0px;
-	padding: 5%;
+	/*padding: 5%;*/
     background-image: url("../images/bgp.jpg");
 
 
@@ -68,6 +68,7 @@ div#header div#logo{
 width: 30%;
 /*background-color: #003300;*/
 float: left;
+/*height: 165px;*/
 }
 
 
@@ -89,6 +90,8 @@ div#header div#name{
 
 div#header div#name img{
 	width: 100%
+	
+	
 }
 
 div#navigation{
@@ -381,7 +384,7 @@ div#header{
     background-image: url("../images/bgp.jpg");
 	
 	margin: 0px;
-	padding: 5%;
+	/*padding: 5%;*/
 	
 }
 h1,h3,h4,h5,h6{
@@ -390,7 +393,7 @@ color: #dfebdd;
 }
 
 div#header div#logo{
-width: 15%;
+width: 25%;
 /*background-color: #003300;*/
 float: left;
 }
@@ -490,7 +493,7 @@ margin: 0px;
 }
 div#slider img{
 	width: 100%;
-	height:250px;
+	/*height:100%;*/
 }
  .rslides {
   position: relative;
@@ -582,8 +585,8 @@ div#content img{
 
 div#footer{
 /*height: 300px;*/
-/*background-color: #4b8cf5;*/
-    background-image: url("../images/bgp.jpg");
+background-color: #4b8cf5;
+    /*background-image: url("../images/bgp.jpg");*/
 
 margin: 0px;
 padding: 2%;
@@ -703,7 +706,7 @@ div#header{
     background-image: url("../images/bgp.jpg");
 	
 	margin: 0px;
-	padding: 5%;
+	/*padding: 5%;*/
 	
 }
 h1,h3,h4,h5,h6{
