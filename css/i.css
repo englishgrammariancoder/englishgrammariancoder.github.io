@@ -173,20 +173,21 @@ position: fixed;
 /*position: absolute;*/
 bottom: 0px;
 overflow: hidden;
+opacity: 0.7;
 }
 div#sliderLeft
 {
-/*background-color: gray;*/
+background-color: gray;
 margin: 0px;
-	width: 10%;
-float: left;
+	width: 4%;
+/*float: left;*/
 /*position: absolute;*/
 bottom: 0px;
-	height:500px;
+	height:100px;
 position: fixed;
 left: 0px;
 overflow: hidden;
-padding-left: 50px;  
+/*padding-left: 50px;  */
 }
 div#sliderTop{
 /*height: 500px;*/
