@@ -161,15 +161,46 @@ div#navigation ul li:hover > a{
 	color: white;
 }
 
-
-div#slider{
+div#sliderBottum
+{
+/*height: 500px;*/
+/*background-color: gray;*/
+/*margin: 0px;s*/
+	width: 90%;
+	height:50px;
+/*float: left;*/
+position: fixed;
+/*position: absolute;*/
+bottom: 0px;
+overflow: hidden;
+}
+div#sliderLeft
+{
+/*background-color: gray;*/
+margin: 0px;
+	width: 10%;
+float: left;
+/*position: absolute;*/
+bottom: 0px;
+	height:500px;
+position: fixed;
+left: 0px;
+overflow: hidden;
+padding-left: 50px;  
+}
+div#sliderTop{
 /*height: 500px;*/
 /*background-color: gray;*/
 margin: 0px;
+	width: 100%;
+	height:50px;
+/*float: left;*/
+overflow: hidden;
+
+
 }
 div#slider img{
 	width: 100%;
-	height:163px;
 }
 .rslides {
   position: relative;
